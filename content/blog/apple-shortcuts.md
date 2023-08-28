@@ -18,7 +18,7 @@ A shortcut is a quick way to get one or more tasks done on your iPhone. Shortcut
 
 **1. Turn off Wifi/Bluetooth/Mobile data**
 
-I find it somewhat annoying that iOS does not actually turn off Bluetooth and Wifi when you turn them off from the control center and iOS continues to scan for new devices in the background to support features like Airdrop or Handoff. Apart from the obvious privacy concerns this also also can drain your battery. Therefore, I created a shortcut that completely turns off Wifi, Bluetooth, and Mobile data.
+I find it somewhat annoying that iOS does not actually turn off Bluetooth and Wifi when you turn them off from the control center and iOS continues to scan for new devices in the background to support features like Airdrop or Handoff. Apart from the obvious privacy concerns this also also can drain your battery. Therefore, I created a shortcut that completely turns off Wifi, Bluetooth, and Mobile data. [Download](https://www.icloud.com/shortcuts/c9b7034018c741d38a6344273670bf01)
 
 **2. App blocker**
 
@@ -26,23 +26,23 @@ As most people, I found myself reaching for my smartphone far too often. Sometim
 
 For this shortcut to work, it should be triggered every time an app is opened, so create a shortcut automation which runs the shortcut everytime the app is opened.
 
-Works for YouTube only but can be easily updated for any app
+Works for YouTube only but can be easily updated for any app. [Download](https://www.icloud.com/shortcuts/b73c02b2a0d146dd99485f8902d7ce81)
 
 **3. Whatsapp message without saving number**
 
 It's often that you find yourself needing to send a Whatsapp message to someone without wanting to save their number. Normally, there isn't an easy way to do this as Whatsapp requires you to save their number as a contact first before you can send a message. This can be inconvenient, especially for one-time communications. The shortcut starts a new whatsapp conversation by reading the number from clipboard.
 
-Works for Indian numbers only but can be easily updated for any country code
+Works for Indian numbers only but can be easily updated for any country code. [Download](https://www.icloud.com/shortcuts/3efd2ae3ac094384b820cabdcff71007)
 
 **4. Shorten URL**
 
-A simple but effective shortcut. When you come across a lengthy URL that you want to share, but it's simply too long and unwieldy, this shortcut comes in handy. It takes the URL from iOS sharesheet, shortens it using a URL shortening service, and then saves the shortened URL back on your clipboard ready to be shared. 
+A simple but effective shortcut. When you come across a lengthy URL that you want to share, but it's simply too long and unwieldy, this shortcut comes in handy. It takes the URL from iOS sharesheet, shortens it using a URL shortening service, and then saves the shortened URL back on your clipboard ready to be shared. [Download](https://www.icloud.com/shortcuts/2898dd267482417c89e25df722112112)
 
 **5. Remove paywall**
 
 A wrapper around [12ft](https://12ft.io/) for reading paywalled content that can be triggered from iOS sharesheet.
 
-Note, this should not be used to avoid paying for content from creators or publications you support. It's simply a tool to access articles on the occasional basis when you're not a subscriber.
+Note, this should not be used to avoid paying for content from creators or publications you support. It's simply a tool to access articles on the occasional basis when you're not a subscriber. [Download](https://www.icloud.com/shortcuts/de0ad66886874379bcbebc826a9dea8c)
 
 ---
 These shortcuts have certainly made a difference in my own use of my iPhone, improving both its functionality and my productivity but the real value of Shortcuts doesn’t lie in any single automation, but in the creativity and customization that it affords.
