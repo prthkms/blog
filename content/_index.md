@@ -1,9 +1,3 @@
----
-title: "Home"
-menu: "main"
-weight: 1
----
-
 ### Hello and welcome!
 
 I'm Pratheek, a curious coder with a journey that has traversed the vast landscapes of the tech world. From being an individual contributor diligently crafting lines of code, to wearing the hat of engineering leadership, and even stepping into the shoes of a founder, I have experienced the myriad challenges, triumphs and failures - ahem - learnings that come with each role.

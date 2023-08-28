@@ -1,8 +1,14 @@
----
-title: "Apple shortcuts that made my life a bit easier"
-date: 2023-08-24
-draft: true
----
++++
+title = "Apple shortcuts that made my life a bit easier"
+date = "2023-08-28T14:29:39+05:30"
+
+#
+# description is optional
+#
+# description = "Apple shortcuts that made my life a bit easier"
+
+tags = []
++++
 
 ## Apple shortcuts that made my life a bit easier
 
